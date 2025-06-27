@@ -75,7 +75,7 @@ cp .env.sample .env
 # Add environment variables:
 # MONGO_URI, JWT_SECRET, CLOUDINARY_NAME, CLOUDINARY_KEY, CLOUDINARY_SECRET,
 # RAZORPAY_KEY_ID, RAZORPAY_KEY_SECRET
-npm run dev
+npm start 
 ```
 
 ### 3. Frontend Setup
@@ -85,7 +85,7 @@ cd ../frontend
 npm install
 cp .env.sample .env
 # Set REACT_APP_API_URL to your backend base URL
-npm start
+npm run dev
 ```
 
 ### 4. Open in Browser
