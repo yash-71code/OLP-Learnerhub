@@ -4,7 +4,7 @@
 
 - *Documentation*: https://drive.google.com/drive/folders/1bFd1z3AHP1paxKkeWougQaUpZ6PlvRwo
 
-- *Demo video*: https://drive.google.com/file/d/1SDRnG4MOdMjkHUKYbRdYocnMWEjNO-h5/view?usp=sharing
+- *Demo video*: https://drive.google.com/file/d/124PQV2MTE2izv2xIUeWgTMus-viZeDST/view?usp=drivesdk
   
 ---
 
