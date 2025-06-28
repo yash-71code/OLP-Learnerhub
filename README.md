@@ -62,7 +62,7 @@ README.md
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/Perkywarcheif/Learn-Hub.git
+git clone (https://github.com/yash-71code/OLP-Learnerhub)
 cd Learn-Hub
 ```
 
