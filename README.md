@@ -116,11 +116,23 @@ Pull requests are welcome! For major changes, please open an issue first.
 
 ---
 
-## 📄 License & Contact
+## 📄  Contact
+**Team Members:**
+Damineni Jyoshna[Team Leader]
+G Chandu
+Ganta Chakri
+Beere Yaswanth
+Simma Nagaraju
+**Contact Mails:**
+jyoshnadamineni2476@gmail.com
+2022cse.r88@svce.edu.in
+2022cse.r97@svce.edu.in
+beereyaswanth@gmail.com
+2022cse.r126@svce.edu.in
+2022cse.r126@svce.edu.in
 
-- *License*: MIT  
-- *Author*: Perkywarcheif  
-- *Contact*: anirudh.mamilla1@gmail.com
+
+- 
 
 ---
 
