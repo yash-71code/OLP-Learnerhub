@@ -84,7 +84,7 @@ npm start
 
 ```bash
 cd ../frontend
-npm install
+npm run dev
 cp .env.sample .env
 # Set REACT_APP_API_URL to your backend base URL
 npm run dev
