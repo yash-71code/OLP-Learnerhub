@@ -4,10 +4,12 @@
 
 - *Documentation*: https://docs.google.com/document/d/19-EhdiKKbOv20OVTX9bZNpEDaZw1xGpM/edit?usp=drivesdk&ouid=106430271279474041451&rtpof=true&sd=true
 - *Demo video*: (Demo 1)--> https://drive.google.com/file/d/1AXPYXHw_LseoR_uokEimR7vvB54TJZks/view?usp=drivesdk
-                (Demo 2)--> 
+                          (Demo 2)--> 
 ---
 
 ## ⚙ Features
+### ADMIN
+visit http://localhost:5173/api/admin
 
 ### 🎓 User Roles
 - *Students*: Browse and enroll in courses, rate content, manage wishlists, access purchased content.
@@ -90,7 +92,7 @@ npm run dev
 
 ### 4. Open in Browser
 
-Visit: [http://localhost:5173](http://localhost:5173)
+Visit:http://localhost:5173
 
 ---
 
