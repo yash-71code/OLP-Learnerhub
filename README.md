@@ -3,8 +3,9 @@
 *Learn‑Hub* is a comprehensive open-source learning platform featuring practical tutorials, structured projects, and coding resources—designed to help users strengthen their web development and programming skills.
 
 - *Documentation*: https://docs.google.com/document/d/19-EhdiKKbOv20OVTX9bZNpEDaZw1xGpM/edit?usp=drivesdk&ouid=106430271279474041451&rtpof=true&sd=true
-- *Demo video*: (Demo 1)--> https://drive.google.com/file/d/1AXPYXHw_LseoR_uokEimR7vvB54TJZks/view?usp=drivesdk
-                                 (Demo 2)--> https://drive.google.com/file/d/19GisZ27wAXGyzp-v1EOrUkpw_0D-rhod/view?usp=drivesdk
+- *Demo video*:
+  (Demo 1)--> https://drive.google.com/file/d/1AXPYXHw_LseoR_uokEimR7vvB54TJZks/view?usp=drivesdk
+  (Demo 2)--> https://drive.google.com/file/d/19GisZ27wAXGyzp-v1EOrUkpw_0D-rhod/view?usp=drivesdk
 ---
 
 ## ⚙ Features
